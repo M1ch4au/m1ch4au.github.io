@@ -1,0 +1,107 @@
+body{
+    margin-left: 200px;
+    margin-right: 200px;
+    background:url(assets/tlo.jpg);
+}
+
+#menu li{
+    list-style: none;
+    display: inline-block;
+    
+}
+#menu li a{
+    text-decoration: none;
+    position: relative;
+    font-size: 25px;
+    font-weight: 600;
+    display: block;
+    overflow: hidden;
+    transition: 0.7s all;
+    padding: 7px 10px;
+    text-transform: uppercase;
+    
+}
+nav ul{
+        
+        border: 5px solid orange;
+        background:white;
+        padding-top: 4px
+                 
+} 
+
+#stronaglowna{
+    margin-right: 20px;
+    background:#F2CA50;
+    color: black;
+}
+
+#gil{
+    margin-left: 20px;
+    margin-right: 20px;
+    background:#B86CD9;
+    color: black;
+}
+
+#jaskolka{
+    margin-left: 20px;
+    margin-right: 20px;
+    background:#83B2EA;
+    color: black;
+}
+
+#szpak{
+    margin-left: 20px;
+    margin-right: 40px;
+    background:#91DA91;
+    color: black;
+}
+
+#wilga{
+    margin-left: 20px;
+    margin-right: 40px;
+    background:#F2CA50;
+    color: black;
+}
+
+#spiewak{
+    margin-left: 20px;
+    margin-right: 40px;
+    background:#F27127;
+    color: black;
+}
+
+.tytul{
+    color: white;
+    text-align: center;
+}
+
+.tekst{
+    background:rgba(228, 179, 60, 0.6);
+    color: white;
+    border: 4px solid lightgreen;
+    display: block;
+    position: static;
+    margin-right: 700px;
+    margin-top: 70px;
+    
+    
+}
+
+.ptakobrazek{
+    margin-top: 100px;
+    ;
+    
+}
+
+.tytul{
+    text-align: center;
+}
+
+.obrazekglowna{
+    margin-top: 40px;
+}
+
+figcaption {
+    text-align: center;
+    color: white;
+}
