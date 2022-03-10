@@ -1,0 +1,26 @@
+<html>
+	<head bgcolor=green>
+		<title>Herby</title>
+	</head>
+	<body>
+		<center>
+		
+		<h1>Wybrane herby miast województwa śląskiego</h1>
+		<table border="1">
+			<tr>
+				<td>Katowice</td>
+				<td><img width=184 height=227 src="herb_katowice.png"</td>
+			</tr>
+			<tr>
+				<td>Piekary Śląskie</td>
+				<td><img width=184 height=203 src="herb_piekary.png"</td>
+			</tr>
+			<tr>
+				<td>Będzin</td>
+				<td><img width=186 height=221 src="herb_bedzin.png"</td>
+			</tr>
+		</table>
+		
+		</center>
+	</body>
+</html>
